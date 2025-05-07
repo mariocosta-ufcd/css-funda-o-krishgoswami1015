@@ -28,4 +28,4 @@ jobs:
       - name: Reportar resultados
         uses: classroom-resources/autograding-grading-reporter@v1
         with:
-          runners: css-test
+          runners: "css-test"
